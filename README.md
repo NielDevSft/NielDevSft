@@ -1,10 +1,10 @@
-### Seja bem vindo. Sou o Daniel. 👋
+### Seja bem vindo. Sou o Daniel Figueiredo. 👋
 
 - 🔭 Atualmente trabalho em projetos pessoais como o [Empresa APP](https://github.com/NielDevSft/empresa) afim de mostrar parte dos meus conhecimentos sobre as plataformas e padrões mais recentes lançados. 
 - 🌱 Tenho também me aprimorado em telemetria apesar de não ter aplicações implementando ferramentas deste gênero por aqui.
 - 👯 Procuro por colaborações que melhorem a experiência de quem vá utilizar meus projetos como base para implementações próprias
 - 😄 Pronomes: ele/dele
-- ⚡ Fatos curiosos: Sou dono do canal [Daniel Dev Figueiredo](https://www.youtube.com/channel/UC35WPrZjB4VZPLlqntbjeVQ)
+- ⚡ Fatos curiosos: Sou fã e horrivel no CS2
 
 ##
 
