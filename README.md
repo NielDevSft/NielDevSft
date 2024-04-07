@@ -8,6 +8,7 @@
 
 ##
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NielDevSft&hide_progress=false&theme=cobalt&layout=donut)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NielDevSft&show_icons=true&theme=cobalt)
 
 ##
@@ -21,7 +22,6 @@
   <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Daniel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
 ##
   
 <div> 
